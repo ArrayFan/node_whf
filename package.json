@@ -1,0 +1,27 @@
+{
+  "name": "node_whf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArrayFan/node_whf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArrayFan/node_whf/issues"
+  },
+  "homepage": "https://github.com/ArrayFan/node_whf#readme",
+  "dependencies": {
+    "captchapng": "0.0.1",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "xtemplate": "^4.6.1",
+    "xtpl": "^3.4.0"
+  }
+}
